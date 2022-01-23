@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Arsen-95/avia/static/css/main.427bfc0f.css",
+    "main.js": "/Arsen-95/avia/static/js/main.b17e295a.js",
+    "static/media/Logo.png": "/Arsen-95/avia/static/media/Logo.e70e38ccb03daf0f38e9.png",
+    "index.html": "/Arsen-95/avia/index.html",
+    "main.427bfc0f.css.map": "/Arsen-95/avia/static/css/main.427bfc0f.css.map",
+    "main.b17e295a.js.map": "/Arsen-95/avia/static/js/main.b17e295a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427bfc0f.css",
+    "static/js/main.b17e295a.js"
+  ]
+}

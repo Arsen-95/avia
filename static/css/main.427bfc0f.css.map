@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.427bfc0f.css","mappings":"AAAA,WACI,eAAgB,CAChB,cACJ,CAEA,SACI,YAAa,CACb,QACJ","sources":["App.css"],"sourcesContent":[".container {\r\n    max-width: 794px;\r\n    padding: 0 20px;\r\n}\r\n\r\n.content {\r\n    display: flex;\r\n    gap: 20px;\r\n}\r\n"],"names":[],"sourceRoot":""}
