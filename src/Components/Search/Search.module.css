@@ -1,0 +1,7 @@
+.search__item:hover {
+    background-color: blue;
+}
+
+.search__item:active {
+    background-color: blue;
+}
