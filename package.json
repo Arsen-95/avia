@@ -1,7 +1,7 @@
 {
   "name": "aviasales",
   "version": "0.1.0",
-  "homepage": "https://github.com/Arsen-95/aviasales.git",
+  "homepage": "https://github.com/Arsen-95/aviasales",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.7.4",
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d buld",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
