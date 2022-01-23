@@ -1,7 +1,7 @@
 {
   "name": "aviasales",
   "version": "0.1.0",
-  "homepage": "https://github.com/Arsen-95/aviasales",
+  "homepage": "https://github.com/Arsen-95/avia",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.7.4",
